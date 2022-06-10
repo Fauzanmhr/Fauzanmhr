@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fauzanmhr
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on elon musk
+- 👀 I’m interested in Server
+- 🌱 I’m currently learning html-css
+- 💞️ I’m looking to collaborate with elon musk
 - 📫 How to reach me just pray to god and say i want meet fauzanmhr.
 
 <!---
