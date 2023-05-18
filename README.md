@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fauzanmhr
-- 👀 I’m interested in Server
-- 🌱 I’m currently learning html-css
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with elon musk
 - 📫 How to reach me just pray to god and say i want meet fauzanmhr.
 
