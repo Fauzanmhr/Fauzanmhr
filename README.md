@@ -11,6 +11,7 @@
 <h2 align="center">About Me</h2>
 
 ###
+I am a student at the Jakarta State Polytechnic, currently pursuing knowledge in the Informatics Engineering major. I am part of a collaboration class between CCIT - FTUI and the Jakarta State Polytechnic.
 
 🤖 I’m interested in devops and cloud computing\
 💻 I’m currently learning cloud computing. \
