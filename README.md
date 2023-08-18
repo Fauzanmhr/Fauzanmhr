@@ -13,9 +13,9 @@
 ###
 I am a student at the Jakarta State Polytechnic, currently pursuing knowledge in the Informatics Engineering major. I am part of a collaboration class between CCIT - FTUI and the Jakarta State Polytechnic.
 
-🤖 I’m interested in devops and cloud computing\
+🤖 I’m interested in devops and cloud computing \
 💻 I’m currently learning cloud computing. \
-🤝 I am open to collaborating with others on various projects, particularly those related to cloud computing, deploying app to server or make something online.\
+🤝 I am open to collaborating with others on various projects, particularly those related to cloud computing, deploying app to server or make something online. \
 🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
 ###
 
@@ -24,8 +24,8 @@ I am a student at the Jakarta State Polytechnic, currently pursuing knowledge in
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=bear" width=750  alt="stats graph"/>
-  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzanmhr&layout=compact&langs_count=6&theme=algolia"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=bear" width=750  alt="stats-graph"/> \
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmhr&theme=bear" width=750 alt="top-langs"/>
 
 </div>
 
