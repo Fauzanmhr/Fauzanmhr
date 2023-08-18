@@ -25,6 +25,7 @@ I am a student at the Jakarta State Polytechnic, currently pursuing knowledge in
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=bear" width=750  alt="stats graph"/>
+  <img height="180em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzanmhr&layout=compact&langs_count=6&theme=algolia"/>
 
 </div>
 
