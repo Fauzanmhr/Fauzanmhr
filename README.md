@@ -1,4 +1,4 @@
-# Hey, I'm Fauzanmhr! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  ![](https://komarev.com/ghpvc/?username=your-github-username)
+# Hey, I'm Fauzanmhr! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">&nbsp![](https://komarev.com/ghpvc/?username=fauzanmhr)
 
 ###
 
