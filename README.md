@@ -11,12 +11,30 @@
 <h2 align="center">About Me</h2>
 
 ###
+
 I am a student at the Jakarta State Polytechnic, currently pursuing knowledge in the Informatics Engineering major. I am part of a collaboration class between CCIT - FTUI and the Jakarta State Polytechnic.
 
 🤖 I’m interested in devops and cloud computing \
 💻 I’m currently learning cloud computing. \
 🤝 I am open to collaborating with others on various projects, particularly those related to cloud computing, deploying app to server or make something online. \
 🌟 In my leisure time, I enjoy exploring a variety of media and finding new sources of inspiration for projects.
+
+###
+
+###
+
+<h2 align="center">Techs I Use</h2>
+
+###
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="gc logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+</div>
+
 ###
 
 <h2 align="center">My Stats</h2>
