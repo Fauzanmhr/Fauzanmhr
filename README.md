@@ -1,4 +1,4 @@
-# Hey, I'm Fauzanmhr! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">   ![](https://komarev.com/ghpvc/?username=fauzanmhr)
+# Hey, I'm Fauzanmhr! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
 
@@ -24,7 +24,7 @@ I am a student at the Jakarta State Polytechnic, currently pursuing knowledge in
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=nord_dark"   alt="stats-graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=nord_dark" alt="stats-graph"/>
 </div>
 
 ###
