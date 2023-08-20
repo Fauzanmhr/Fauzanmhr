@@ -46,6 +46,8 @@ I am a student at the Jakarta State Polytechnic, currently pursuing knowledge in
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=nord_dark" width=750 alt="stats-graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmhr&theme=nord_dark" alt="langs-byrepo"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzanmhr&theme=nord_dark" alt="langs-bycommit"/>
 </div>
 
 ###
