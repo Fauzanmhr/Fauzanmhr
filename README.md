@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img height="" src="https://github.com/Fauzanmhr/Fauzanmhr/blob/main/banner.jpg?raw=true"  />
-</div>
+// <div align="center">
+// <img height="" src="https://github.com/Fauzanmhr/Fauzanmhr/blob/main/banner.jpg?raw=true"  />
+// </div>
 
 ###
 
