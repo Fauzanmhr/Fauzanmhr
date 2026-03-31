@@ -1,7 +1,7 @@
 # Kon'nichiwa, I'm Fauzanmhr! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kurenaido&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Computing+Enthusiast;Cloud+Engineer+in+Progress;Building+cool+things+that+work+online;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kurenaido&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Computing+Enthusiast;Building+cool+things+that+work+online;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
