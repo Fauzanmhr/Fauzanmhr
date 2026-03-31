@@ -1,47 +1,71 @@
-# Hey, I'm Fauzanmhr! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Kon'nichiwa, I'm Fauzanmhr! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave" />
 
-<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Zen+Kurenaido&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Computing+Enthusiast;Cloud+Engineer+in+Progress;Building+cool+things+that+work+online;Always+learning+something+new+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-I'm currently a student at Jakarta State Polytechnic, pursuing a degree in Informatics Engineering as part of a collaboration program between CCIT - FTUI and my school. 
+---
 
-💡 **Interests**:  
-&nbsp;&nbsp;&nbsp;&nbsp;🔧 DevOps & Cloud Computing Enthusiast  
-&nbsp;&nbsp;&nbsp;&nbsp;🌍 Passionate about building, deploying, and optimizing cloud-based applications
+## 🌸 About Me
 
-📚 **Current Focus**:  
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 Learning and mastering cloud computing concepts
+> “Code. Deploy. Optimize. Repeat.” ⚡
 
-🤝 **Collaboration**:  
-&nbsp;&nbsp;&nbsp;&nbsp;Happy to connect on **DevOps**, **cloud architecture**, or anything related to making cool things work online! Always eager to explore new tech or ideas. 
+I'm a Software and Devops Engineer at PT Tirta Asasta Depok (Perseroda) with a background in Informatics Engineering from Jakarta State Polytechnic, through a collaboration program between CCIT - FTUI.
 
-✨ When I’m not coding or learning, I enjoy delving into creative projects and staying inspired by new technologies.
+- 🔧 Passionate about **DevOps**, **Cloud Computing**, and system reliability
+- 🚀 Interested in automation, scalable systems, and modern tooling
+- 🤝 Open to collaboration on **DevOps**, **cloud architecture**, and exciting tech projects
 
-<h2 align="center">🛠️ Tech I Use</h2>
+---
 
-<div align="center">
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nginx/nginx-original.svg" height="45" alt="nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" height="45" alt="linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-plain.svg" height="45" alt="bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" height="45" alt="mysql" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-plain-wordmark.svg" height="45" alt="docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" height="45" alt="git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" height="45" alt="js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" height="45" alt="python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg" height="45" alt="php" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" width="52" alt="google cloud logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo" />
-  
-</div>
+</p>
 
-<h2 align="center">📊 My GitHub Stats</h2>
+---
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=nord_dark" alt="stats-graph"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmhr&theme=nord_dark" alt="langs-byrepo"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzanmhr&theme=nord_dark" alt="langs-bycommit"/>
-</div>
+## 📊 Profile Summary Cards
 
-<h2 align="center">🌐 Where to Find Me</h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanmhr&theme=tokyonight" alt="Profile Details" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/fauzanmhr/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanmhr&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzanmhr&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+---
+
+## 🏆 Achievements Unlocked
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fauzanmhr&theme=radical&hide_border=true&border_radius=12" height="170" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fauzanmhr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
+</p>
